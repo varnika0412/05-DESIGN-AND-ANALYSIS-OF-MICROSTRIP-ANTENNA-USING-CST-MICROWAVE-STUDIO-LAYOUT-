@@ -14,28 +14,50 @@ Height of the substrate=1.6 mmZ0=50 ohm,ZL=123 ohm Zo’=√(50*123)= 78.42 ohm
 Length of the quarter wave line = 18mmLamda g =72 , Lamda not=128
 Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4 Ghzc, Ε eff=3.024
 
-**	Design of microstrip line terminated with the desired load**
+## Microstrip Patch Antenna Structure and Feeding Arrangement:
+
+<img width="1586" height="566" alt="image" src="https://github.com/user-attachments/assets/89cc3c7b-1eba-4369-ad81-bee7af1dae5a" />
 
 
-<img width="621" height="185" alt="image" src="https://github.com/user-attachments/assets/908adc01-814f-450c-b969-7e1342681af4" />
+## Ground Plane Design Parameters:
 
+<img width="312" height="338" alt="image" src="https://github.com/user-attachments/assets/be5b5aed-932e-4eae-9b9b-f5bffb27e7ef" />
 
-**S11 characteristics of the microstrip line terminated with the load**
+## Microstrip Patch Dimension Setup:
 
+<img width="318" height="338" alt="image" src="https://github.com/user-attachments/assets/1dd248ea-eba6-45d4-8c74-3c581ceb4764" />
 
-<img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/f7d30519-56c3-4642-b446-7b93a7a1e33b" />
+## Substrate Material and Dimension Configuration:
 
+<img width="316" height="343" alt="image" src="https://github.com/user-attachments/assets/f3217bea-c933-40a0-9992-a5c43e9e733b" />
 
-**	Design of microstrip line terminated with quarter wave line and the desired load**
+## S-Parameter (S11) Return Loss Characteristics:
 
+<img width="1551" height="661" alt="image" src="https://github.com/user-attachments/assets/0770ae45-261d-4a1d-83f4-11f602af95fe" />
 
-<img width="642" height="184" alt="image" src="https://github.com/user-attachments/assets/4fcf36a6-131b-45e0-b569-8f50565faf0e" />
+ ### VSWR Analysis of Microstrip Patch Antenna:
 
+<img width="1568" height="667" alt="image" src="https://github.com/user-attachments/assets/448933dd-6c5e-445c-86a7-4dc2cc0f4e87" />
 
-**	S11 characteristics of the microstrip line terminated with quarter wave line and the desired load**
+## Electric Field Distribution of Microstrip Antenna:
 
+<img width="1565" height="664" alt="image" src="https://github.com/user-attachments/assets/e3ec358b-c4a1-4b0b-8732-2ff4c807cc19" />
 
-<img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/863dbdd2-254c-4165-b167-3bdbb331efc7" />
+## Magnetic Field Distribution of Microstrip Antenna:
+
+<img width="1572" height="660" alt="image" src="https://github.com/user-attachments/assets/65c19f9a-a46c-4ecd-b788-39e7a929de6d" />
+
+## Far-Field Radiation Pattern (Phi = 0°):
+
+<img width="1564" height="685" alt="image" src="https://github.com/user-attachments/assets/aa9b5bbd-e163-42e7-9e98-41d1633bec38" />
+
+## Far-Field Radiation Pattern (Phi = 90°):
+
+<img width="1558" height="658" alt="image" src="https://github.com/user-attachments/assets/34cb4396-ed96-4c7f-979e-11a41e6e4353" />
+
+## Far-Field Directivity Pattern (Theta = 90°):
+
+<img width="1568" height="665" alt="image" src="https://github.com/user-attachments/assets/9b6b1379-17e4-4dea-90a1-46cc66fa1ec2" />
 
 
 **Conclusion:**
